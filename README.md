@@ -1,20 +1,29 @@
-<<<<<<< HEAD
-# blind_assist_fixed
+Blind Assist App
 
-A new Flutter project.
+Blind Assist App is a Flutter-based mobile application designed to help visually impaired users navigate and interact with their surroundings more independently. The app focuses on accessibility-first features using voice-based interaction and assistive utilities.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+Voice guidance and audio feedback
 
-A few resources to get you started if this is your first Flutter project:
+Speech-to-text support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Simple and accessible UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Blind-Assistant-App
->>>>>>> 2fe3a60bdb55068835518330aebe57838e518d01
+Designed with accessibility in mind
+
+Cross-platform support using Flutter
+
+Tech Stack
+
+Flutter (Dart)
+
+Android Studio
+
+Gradle
+
+Firebase (planned / optional)
+
+Project Status
+
+🚧 This project is currently under development. Features and improvements are being added progressively as part of learning and experimentation.
