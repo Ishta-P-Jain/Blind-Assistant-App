@@ -5,7 +5,6 @@ Blind Assist App is a Flutter-based mobile application designed to help visually
 Features
 
 Voice guidance and audio feedback
-
 Speech-to-text support
 
 Simple and accessible UI
@@ -20,9 +19,7 @@ Flutter (Dart)
 
 Android Studio
 
-Gradle
 
-Firebase (planned / optional)
 
 Project Status
 
