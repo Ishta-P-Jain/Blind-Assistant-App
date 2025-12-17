@@ -14,6 +14,7 @@ void main() async {
   runApp(BlindAssistApp(cameras: cameras));
 }
 
+
 class BlindAssistApp extends StatelessWidget {
   final List<CameraDescription> cameras;
 
@@ -70,7 +71,7 @@ class _HomePageState extends State<HomePage> {
     tts.speak(text);
   }
 
-  // ---------------------- LABEL LOADING ---------------------- //
+  // ---------------------- LABEL LOADING ---------------------- (front view) //
   Future<void> loadLabels() async {
     final raw = await rootBundle.loadString("assets/models/labels.txt");
     labels = raw.split('\n');
