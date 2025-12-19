@@ -20,7 +20,6 @@ Flutter (Dart)
 Android Studio
 
 
+###Project Status###
 
-Project Status
-
-🚧 This project is currently under development. Features and improvements are being added progressively as part of learning and experimentation.
+🚧 #This project is currently under development. Features and improvements are being added progressively as part of learning and experimentation.#
